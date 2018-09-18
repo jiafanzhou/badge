@@ -6,9 +6,9 @@
     "hashed": false
   },
   "issuedOn":  1388534400,
-  "badge": "http://jiafanzhou.website2.me/digitary-badge-class.json",
+  "badge": "https://github.com/jiafanzhou/badge/tree/master/01.helloworld/digitary-badge-class.json",
   "verify": {
     "type": "hosted",
-    "url": "http://jiafanzhou.website2.me/award1.json"
+    "url": "https://github.com/jiafanzhou/badge/tree/master/01.helloworld/award1.json"
   }
 }
