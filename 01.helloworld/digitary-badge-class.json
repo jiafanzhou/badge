@@ -1,7 +1,7 @@
 {
 	"name": "Digitary OpenBadge Issuer",
 	"description": "Issues great new Open Badges from Digitary.",
-	"image": "https://raw.githubusercontent.com/jiafanzhou/badge/master/01.helloworld/digitary-badge-issuer.png",
+	"image": "https://github.com/jiafanzhou/badge/raw/master/01.helloworld/digitary-badge-issuer.png",
 	"criteria": "https://github.com/jiafanzhou/badge/tree/master/01.helloworld/digitary-badge-criteria.html",
-	"issuer": "https://github.com/jiafanzhou/badge/tree/master/01.helloworld/digitary-badge-issuer.json"
+	"issuer": "https://github.com/jiafanzhou/badge/raw/master/01.helloworld/digitary-badge-issuer.json"
 }
